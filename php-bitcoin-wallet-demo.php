@@ -2058,11 +2058,6 @@ zoo";
 //base58: 2Vnj8gNt6nDnPzYWJ8NNA5
 
 
-// TODO - BIP32 Root Key to Base58 bitcoin address - done
-// TODO - BIP32 Root Key to SegWit address
-// TODO - BIP32 Root Key to Taproot address
-
-
 /* References
 - https://guggero.github.io/cryptography-toolkit/#!/hd-wallet
 - https://iancoleman.io/bip39/

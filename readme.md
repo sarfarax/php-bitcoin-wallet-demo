@@ -67,6 +67,13 @@ Never share or use the generated mnemonics, seeds, or private keys on mainnet or
 
 ---
 
+## Roadmap
+
+- **SegWit addresses** — derive a native SegWit (P2WPKH, Bech32 `bc1q…`) address from the BIP32 root key.
+- **Taproot addresses** — derive a Taproot (P2TR, Bech32m `bc1p…`) address from the BIP32 root key.
+
+---
+
 ## License
 
 MIT License
